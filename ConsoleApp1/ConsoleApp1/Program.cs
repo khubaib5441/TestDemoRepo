@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WirteLine("new Console project");
+            Console.WriteLine("new Console project");
         }
     }
 }
