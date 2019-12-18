@@ -10,9 +10,9 @@ namespace ConsoleApp1
     {
         public int sum_n()
         {
-            int i = 5;
-            int j = 10;
-            int sum = (i + j);
+            var i = 5;
+            var j = 10;
+            var sum = (i + j);
             return sum;
         }
     }
