@@ -13,6 +13,12 @@ namespace ConsoleApp1
             // this code print the string value
             Console.WriteLine("new Console project");
             Console.ReadLine();
+            int i = 0;
+                while (i==5)
+            {
+                Console.WriteLine("the given detail : " + i);
+                i++;
+            }
         }
     }
 }
