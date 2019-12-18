@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             // this code print the string value
             Console.WriteLine("new Console project");
+            Console.ReadLine("new Console project");
         }
     }
 }
